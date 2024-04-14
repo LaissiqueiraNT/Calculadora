@@ -37,6 +37,7 @@ body {
     border: 3px;
     cursor: pointer;
     margin: 1px;
+    user-select: none;
 }
 .botao:hover {
     background-color: var(--cor-1);
